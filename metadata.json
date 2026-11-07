@@ -1,0 +1,6 @@
+{
+  "name": "We Build Australia - Public Sector, Civic & Residential Construction",
+  "description": "We Build Australia Pty Ltd is a NSW-based construction company founded in 2014 delivering heritage restoration, social housing remediation, civil works, childcare facilities, and residential building across Sydney and NSW.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
