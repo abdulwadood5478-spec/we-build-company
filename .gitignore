@@ -1,0 +1,9 @@
+node_modules
+webuild-australiaa-main/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
